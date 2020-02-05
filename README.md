@@ -1,13 +1,19 @@
 ## Learning infectious disease model
 
-data from National/Hubei/Wuhan health and construction commission
+data from National/Hubei/Wuhan health and construction commission(updated 2020/02/04/23:59)
 
 ### exponential model - y = a * exp(-b*x) + c 
-
+#### Daily Number
 ![2019nCoV](./resources/2019nCoV.jpg)
 
+------
 
-#### Updated on 5th Feb 2020
+
+#### Daily Increment
+![2019nCoV_inc](./resources/2019nCoV_inc.png)
+
+
+#### Forecast Infection Number tomorrow / Updated on 5th Feb 2020
 
 Date(as of 23:59) | Forecast(F) | Reality(R) | Difference(F-R) 
 :------------------: | :------------: | :----------: | :---------------: 

@@ -1,6 +1,6 @@
 ## Learning infectious disease model
 
-data from National/Hubei/Wuhan health commission(updated 2020/02/04/23:59)
+data from National/Hubei/Wuhan health commission(data updated up to  2020/02/05/23:59)
 
 ### exponential model - y = a * exp(-b*x) + c 
 #### Daily Number

@@ -27,13 +27,12 @@ R0 表示再生指数，即一个人可以传染给多少人
 
 [reference1](https://zhuanlan.zhihu.com/p/104091330?from=timeline)
 
-```
-${\lambda} = \frac{ln(Y(t)}{t} ：表示早期感染人数增长率，Y(t)表示截止到t时间的感染人数$
-$R_0 = (1+ \frac{\lambda}{r_1})* (1+ \frac{\lambda} {r_2}) ：r_1表示处于潜伏期的人以r_1的概率转变为受感染人，r_2表示处于感染期的人以r_2的概率转变为康复期$
-$记T_L = \frac{1}{r_1},T_I = \frac{1}{r_2} ，则生成时间记为T_g = T_L + T_I，记p = \frac{T_L}{T_g}为潜伏期占生成时间的比例$
-$以上，推导：R_0 = 1+\lambda * T_g + p*(1-p)(\lambda*T_g)^2$
-```
-
+$$
+{\lambda} = \frac{ln(Y(t)}{t} ：表示早期感染人数增长率，Y(t)表示截止到t时间的感染人数\\
+R_0 = (1+ \frac{\lambda}{r_1})* (1+ \frac{\lambda} {r_2}) ：r_1表示处于潜伏期的人以r_1的概率转变为受感染人，r_2表示处于感染期的人以r_2的概率转变为康复期\\
+记T_L = \frac{1}{r_1},T_I = \frac{1}{r_2} ，则生成时间记为T_g = T_L + T_I，记p = \frac{T_L}{T_g}为潜伏期占生成时间的比例\\
+以上，推导：R_0 = 1+\lambda * T_g + p*(1-p)(\lambda*T_g)^2
+$$
 ![formula](./resources/math.png)
 
 部分参数来源于[reference2](https://www.kechuang.org/t/85075)中所介绍的论文

@@ -17,7 +17,8 @@ data from National/Hubei/Wuhan health commission(data updated up to  2020/02/05/
 
 Date(as of 23:59) | Forecast(F) | Reality(R) | Difference(F-R) 
 :------------------: | :------------: | :----------: | :---------------: 
-2020/02/06 | 32384 ||
+2020/02/06 | 32384 |31161|1223
+2020/02/07 | 36213 ||
 
 
 

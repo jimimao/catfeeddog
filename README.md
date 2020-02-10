@@ -1,6 +1,6 @@
 ## Learning infectious disease model
 
-data from National/Hubei/Wuhan health commission(data updated up to  2020/02/08/23:59)
+data from National/Hubei/Wuhan health commission(data updated up to  2020/02/09/23:59)
 
 ### power function - y = a * (x**b) + c 
 #### Daily Number
@@ -20,7 +20,8 @@ Date(as of 23:59) | Forecast(F) | Reality(R) | Difference(F-R)
 2020/02/06 | 32384 |31161|1223
 2020/02/07 | 36213 |34546|1667
 2020/02/08 | 39952 |37198|2754
-2020/02/09 | 43202 ||
+2020/02/09 | 43202 |40171|3031
+2020/02/10 | 46350 ||
 
 
 

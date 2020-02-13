@@ -1,6 +1,8 @@
 ## Learning infectious disease model
 
-data from National/Hubei/Wuhan health commission(data updated up to  2020/02/09/23:59)
+2月12 号的数据，突然把临床的病例全部加上去了，只能再等等看了，可能后续的确诊模型需要分段来看
+
+data from National/Hubei/Wuhan health commission(data updated up to  2020/02/12/23:59)
 
 ### power function - y = a * (x**b) + c 
 #### Daily Number
@@ -21,7 +23,8 @@ Date(as of 23:59) | Forecast(F) | Reality(R) | Difference(F-R)
 2020/02/07 | 36213 |34546|1667
 2020/02/08 | 39952 |37198|2754
 2020/02/09 | 43202 |40171|3031
-2020/02/10 | 46350 ||
+2020/02/10 | 46350 |42638|3712
+2020/02/13 | 64687 ||
 
 
 
